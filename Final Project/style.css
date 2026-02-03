@@ -57,8 +57,7 @@ nav {
 .social-icons img {
   width: 20px;
   height: 20px;
-  -o-object-fit: contain;
-     object-fit: contain;
+  object-fit: contain;
 }
 main {
   margin-top: 80px;
@@ -124,8 +123,7 @@ section {
 .artist-card img {
   width: 100%;
   aspect-ratio: 1/1.2;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   border-radius: 8px;
 }
 .artist-card p {
@@ -222,8 +220,7 @@ section {
   width: 100%;
   max-width: 400px;
   border-radius: 12px;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 .faq-list .faq-item {
   margin-bottom: 30px;
@@ -244,8 +241,7 @@ section {
   width: 100%;
   background: black;
   min-height: 250px;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   border-radius: 8px;
 }
 .discord-section {
